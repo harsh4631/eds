@@ -210,18 +210,7 @@
         "label": "Title",
         "value":""
       },
-      {
-        "component": "select",
-        "valueType": "string",
-        "name": "foreground_titletype",
-        "label": "Title type",
-        "value":"",
-        "option":[
-          {"name":"h1","value":"h1"},
-          {"name":"h2","value":"h2"},
-          {"name":"h3","value":"h3"}
-        ]
-      },
+     
       {
         "component": "richtext",
         "valueType": "string",
