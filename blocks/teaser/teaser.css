@@ -19,8 +19,8 @@
 .block.teaser.fg {
     background-color: #333;
     color: white;
-    opacity: .75;
-    padding: 1.5rem;
+    opacity: 2.75;
+    padding: 3.5rem;
     display: flex;
     flex-direction: column-reverse;
 }
