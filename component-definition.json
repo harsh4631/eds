@@ -160,8 +160,7 @@
                 "resourceType":"core/franklin/components/block/v1/block/item",
                 "template":{
                   "name": "Teaser",
-                  "model": "teaser",
-                  "Main_title": "h1"                                      
+                  "model": "teaser"                                    
                 }
               }
             }
