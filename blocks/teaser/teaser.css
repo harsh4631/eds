@@ -5,6 +5,9 @@
         grid-row: 1;
         grid-column: 1;
 } */
+.block.teaser.foreground_pretitle{
+    margin-left: 50%;
+}
 
 .block.teaser.bg p{
     margin: 0;
