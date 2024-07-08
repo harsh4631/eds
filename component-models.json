@@ -233,7 +233,7 @@
     ]
   },
   {
-    "id": "header",
+    "id": "arena-header",
     "fields": [
       {
         "component": "text",
