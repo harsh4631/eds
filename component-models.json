@@ -231,5 +231,24 @@
         "value":""
       }
     ]
+  },
+  {
+    "id": "header",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "header-logo",
+        "label": "title",
+        "value":""
+      },
+      {
+        "component": "richtext",
+        "valueType": "string",
+        "name": "header-list",
+        "label": "list",
+        "value":""
+      }
+    ]
   }
 ]
