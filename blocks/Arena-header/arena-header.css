@@ -1,4 +1,4 @@
-.arena-header-wrapper{
+.arena-header-wrapper .arena-header{
     margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -8,7 +8,7 @@
     color: #000;
     background: #fff;
   }
-.arena-header-wrapper{
+.arena-header-wrapper .arena-header{
     position: fixed;
     background: #1b1b1b;
     width: 100%;
