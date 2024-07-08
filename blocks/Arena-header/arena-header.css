@@ -1,0 +1,23 @@
+.arena-header-wrapper{
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins',sans-serif; 
+}
+::selection{
+    color: #000;
+    background: #fff;
+  }
+.arena-header-wrapper{
+    position: fixed;
+    background: #1b1b1b;
+    width: 100%;
+    padding: 10px 0;
+    z-index: 12;
+    max-width: 1250px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}  
