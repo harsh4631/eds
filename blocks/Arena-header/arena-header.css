@@ -21,3 +21,6 @@
     justify-content: space-between;
     padding: 0 20px;
 }  
+.arena-header-wrapper p{
+    margin-left: 50%;
+}
