@@ -243,6 +243,13 @@
         "value":""
       },
       {
+        "component": "text",
+        "valueType": "string",
+        "name": "header-link",
+        "label": "link",
+        "value":""
+      },
+      {
         "component": "richtext",
         "valueType": "string",
         "name": "header-list",
